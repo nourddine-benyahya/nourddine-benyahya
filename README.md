@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img padding="50px" align="right" alt="Coding" width="300" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img padding="50px" align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/1f/d7/51/1fd751eeb68662142a29502d2db016b6.gif">
 
 
 <h3 align="left">My Github Stats :</h3>
