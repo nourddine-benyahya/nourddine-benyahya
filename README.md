@@ -8,8 +8,7 @@
 
 
 <br><br>
-
-<a href=""><img src="https://api.daily.dev/devcards/a3a936294bf24271b54d00dcca27099c.png?r=r28" width="400" alt="Nourddine benyahya's Dev Card"/></a>
+<a href=""><img src="https://api.daily.dev/devcards/a3a936294bf24271b54d00dcca27099c.png?r=ksk" width="400" alt="Nourddine benyahya's Dev Card"/></a>
 
 <br><br>
 
