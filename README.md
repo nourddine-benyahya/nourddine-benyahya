@@ -38,7 +38,6 @@
 <h3 align="left">my score on github :</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourddine-benyahya" alt="nourddine-benyahya" /></a> </p><br><br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourddine-benyahya&" alt="nourddine-benyahya" /></p>
 
 
 
