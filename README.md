@@ -9,7 +9,7 @@
 <br><br>
 <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-        <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/nbenyahy" alt="nbenyahy's 42 stats" /></a>
+        <a href="https://github.com/nourddine-benyahya"><img src="https://badge.mediaplus.ma/greenbinary/nbenyahy" alt="nbenyahy's 42 stats" /></a>
     </div>
     <div style="margin-left: 20px;">
         <h3 align="left">My Github Stats :</h3>
