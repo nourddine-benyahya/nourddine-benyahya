@@ -13,12 +13,10 @@
     <div style="margin-left: 20px;">
         <h3 align="left">My Github Stats :</h3>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nourddine-benyahya&theme=tokyonight" alt="nbenyahy's 42 stats" />
-
     </div>
 </div>
 
 
- ![Your Repository's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nourddine-benyahya&theme=tokyonight)
 <h3 align="left">Working With :</h3>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nourddine-benyahya&layout=compact&theme=radical)
