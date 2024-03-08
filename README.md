@@ -18,9 +18,6 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nourddine-benyahya&layout=compact&theme=radical)
 
-<h3 align="left">my score on github :</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nourddine-benyahya" alt="nourddine-benyahya" /></a> </p><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
