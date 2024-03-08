@@ -12,11 +12,10 @@
     </div>
     <div style="margin-left: 20px;">
         <h3 align="left">My Github Stats :</h3>
-        <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nourddine-benyahya&layout=compact&theme=radical"><img src="https://github-readme-stats.vercel.app/api?username=nourddine-benyahya&show_icons=true&theme=radical" alt="Anurag's GitHub stats" /></a>
+        ![Your Repository's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nourddine-benyahya&theme=tokyonight)
     </div>
 </div>
 
-![Your Repository's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nourddine-benyahya&theme=tokyonight)
 
 
 <h3 align="left">Working With :</h3>
