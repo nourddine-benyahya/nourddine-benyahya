@@ -74,7 +74,7 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 
 ---
 
-🦆 _Repository made with ❤️ by [nourddine](https://github.com/nourddine-benyahya). Quack on and keep coding!_
+🦆 _Repository made with ❤️ by [nourddine](https://github.com/nourddine-benyahya). keep coding and don't forget git push!_
 
 
 
