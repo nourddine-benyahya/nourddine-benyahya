@@ -18,6 +18,7 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
   <br><br>
   <a href="https://github.com/nourddine-benyahya/42-Common-Core-Projects/tree/main">
 	  <img src="https://progress-bar.dev/8/?scale=15&title=Projects&width=600&color=babaca&suffix=/15" alt="Progress Bar"> 
+&nbsp;&nbsp;&nbsp;
   	  42 project
    </a> 
 </div>
@@ -63,10 +64,10 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 
 <div align="center">
   <a href="mailto:nourddine.benyahya02@gmail.com">
-    <img src="/email.png" width="30" height="30" />
+    <img src="/emaill.png" width="30" height="30" />
   </a>
-
-  <a href="https://www.linkedin.com/in/nourddine-benyahya">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/nourddine-benyahya">
     <img src="/linkedin.png" width="30" height="30" />
   </a>
 </div>
