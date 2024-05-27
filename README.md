@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="start is Landings"/>
+  <img src="/image.gif" alt="start is Landings"/>
 </p>
 
 By day, I'm a code commando in the making, wrangling pixels and crafting digital experiences. By night. 🚀🦆💻 I'm a problem-solving enthusiast, always up for a good challenge. I'm on a mission to become a software engineer , and I'm excited to see where the code takes me next!
