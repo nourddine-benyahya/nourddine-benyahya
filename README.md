@@ -1,5 +1,21 @@
 # Hello from Lunar Surfaces, I'm nourddine! 🌖👨‍💻✨
-<h1> <a href='https://www.nourddine.me' >Check my portfolio</a> </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nourddine-benyahya&label=Lunar+Landings&color=green" alt="start is Landings"/>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="start is Landings"/>
+</p>
+
+
+By day, I'm a code commando in the making, wrangling pixels and crafting digital experiences. By night, I'm a problem-solving enthusiast, always up for a good challenge.  Currently, I'm on a mission to become a software engineering master at 42 Tetouan, and I'm excited to see where the code takes me next!
+Quacking in code from the moon! As the galaxy's first duck developer, I'm debugging the stars one quack at a time. 🚀🦆💻 Whether you're here to explore celestial code or share a space-bean of knowledge, you're in for an astronomical treat! 🌠✨
+
+Currently, I am undergoing training at 42 School in Lausanne. 📚👨‍💻🚀
+
+[![rrouille's 42 stats](https://badge.mediaplus.ma/darkblue/Rrouille?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/rrouille)
+
+---
 
 ### 📊 Coding Constellations
 
