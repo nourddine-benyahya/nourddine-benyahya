@@ -13,6 +13,18 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 
 ---
 
+## 42 Common Core Projects
+<div align="center">
+  <br><br>
+  <a href="https://github.com/nourddine-benyahya/42-Common-Core-Projects/tree/main">
+	  <img src="https://progress-bar.dev/8/?scale=15&title=Projects&width=600&color=babaca&suffix=/15" alt="Progress Bar"> 
+  	  42 project
+   </a> 
+</div>
+
+
+---
+
 ## 🖥️  Skills & Expertise :
 
 <picture>
@@ -38,7 +50,7 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 ## 📊 Coding Constellations
 
 <div align="center">
-		<br></br>
+	<br></br>
 	<img src="https://github-readme-stats.vercel.app/api?username=nourddine-benyahya&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Raphael's Github stats">
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourddine-benyahya&layout=compact&theme=midnight-purple" alt="Top Languages" />
 	<br></br>
