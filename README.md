@@ -7,13 +7,9 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="start is Landings"/>
 </p>
 
+By day, I'm a code commando in the making, wrangling pixels and crafting digital experiences. By night, 🚀🦆💻 I'm a problem-solving enthusiast, always up for a good challenge. I'm on a mission to become a software engineer , and I'm excited to see where the code takes me next!
 
-By day, I'm a code commando in the making, wrangling pixels and crafting digital experiences. By night, I'm a problem-solving enthusiast, always up for a good challenge.  Currently, I'm on a mission to become a software engineering master at 42 Tetouan, and I'm excited to see where the code takes me next!
-Quacking in code from the moon! As the galaxy's first duck developer, I'm debugging the stars one quack at a time. 🚀🦆💻 Whether you're here to explore celestial code or share a space-bean of knowledge, you're in for an astronomical treat! 🌠✨
-
-Currently, I am undergoing training at 42 School in Lausanne. 📚👨‍💻🚀
-
-[![rrouille's 42 stats](https://badge.mediaplus.ma/darkblue/Rrouille?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/rrouille)
+Currently, I am undergoing as a software engineer student at 42 School in Tetouan. 📚👨‍💻🚀
 
 ---
 
@@ -27,7 +23,27 @@ Currently, I am undergoing training at 42 School in Lausanne. 📚👨‍💻�
 
 ---
 
+## 🖥️  Skills & Expertise :
+<picture>
+  <img align="right" src="imgs/coding.gif" width = 250px>
+</picture>
 
+- Web FrameWork Development: Laravel, React, ExpressJs, Node.Js (including Docker containerization)
+- Data Dasess : MongoDB, Mysql
+- Programming languages : C, Python, php ,javaScript,
+- System Administration: server setups, shell scripting
+- Creative Design: Basic Web design (figma)
+- Toolbelt Master: WSL, Git, VSCode, VIM, Terminal
+
+## 🚀 Beyond the Code: ‍
+
+- Problem-Solving Pro : Always up for a challenge and can break down complex issues into actionable steps.
+- Team Player : Thrive in collaborative environments, fostering open communication and effective teamwork.
+- Quick Learner : Adept at grasping new concepts and technologies, eager to learn from others.
+- Adaptable & Flexible : Can adjust to changing priorities and embrace new approaches to achieve project goals.
+- Communication Skills : Can clearly articulate technical concepts to both technical and non-technical audiences.
+
+---
 
 ### 📡 Get in Touch
 
