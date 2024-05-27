@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="start is Landings"/>
+  <img src="https://ik.imagekit.io/dresma/Dresma_Library/senior-software-engineer_Wy82tYQym.gif" alt="start is Landings"/>
 </p>
 
-By day, I'm a code commando in the making, wrangling pixels and crafting digital experiences. By night, 🚀🦆💻 I'm a problem-solving enthusiast, always up for a good challenge. I'm on a mission to become a software engineer , and I'm excited to see where the code takes me next!
+By day, I'm a code commando in the making, wrangling pixels and crafting digital experiences. By night. 🚀🦆💻 I'm a problem-solving enthusiast, always up for a good challenge. I'm on a mission to become a software engineer , and I'm excited to see where the code takes me next!
 
 Currently, I am undergoing as a software engineer student at 42 School in Tetouan. 📚👨‍💻🚀
 
