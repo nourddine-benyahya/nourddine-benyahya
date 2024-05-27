@@ -51,7 +51,7 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 
 <div align="center">
 	<br></br>
-	<img src="https://github-readme-stats.vercel.app/api?username=nourddine-benyahya&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Raphael's Github stats">
+	<img src="https://github-readme-stats.vercel.app/api?username=nourddine-benyahya&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="nourddine's Github stats">
  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourddine-benyahya&layout=compact&theme=midnight-purple" alt="Top Languages" />
 	<br></br>
   	<img src="https://github-readme-activity-graph.vercel.app/graph?username=nourddine-benyahya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
