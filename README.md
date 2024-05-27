@@ -16,7 +16,7 @@
 ### 📡 Get in Touch
 
 <div align="center">
-  <a href="mailto:nourddine.benyahya02@sgmail.com">
+  <a href="mailto:nourddine.benyahya02@gmail.com">
     <img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/email.png" width="30" height="30" />
   </a>
 
