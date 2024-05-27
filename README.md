@@ -63,11 +63,11 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 
 <div align="center">
   <a href="mailto:nourddine.benyahya02@gmail.com">
-    <img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/email.png" width="30" height="30" />
+    <img src="/email.png" width="30" height="30" />
   </a>
 
   <a href="https://www.linkedin.com/in/nourddine-benyahya">
-    <img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/linkedin.png" width="30" height="30" />
+    <img src="/linkedin.png" width="30" height="30" />
   </a>
 </div>
 
