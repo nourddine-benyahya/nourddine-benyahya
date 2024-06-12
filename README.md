@@ -1,6 +1,6 @@
 # Hello from Lunar Surfaces, I'm nourddine! 🌖👨‍💻✨ 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nourddine-benyahya&label=nourddine+benyahya+profile+vues&color=green" alt="start is Landings"/>
+  <img src="https://komarev.com/ghpvc/?username=nourddine-benyahya&label=profile+views&color=green" alt="start is Landings"/>
 </p>
 
 <p align="center">
