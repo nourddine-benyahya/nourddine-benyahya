@@ -20,8 +20,6 @@ Currently, I am undergoing as a software engineer student at 42 School in Tetoua
 [![nbenyahy's 42 stats](https://badge.mediaplus.ma/darkblue/nbenyahy)](https://github.com/oakoudad/badge42)
   <br><br>
   <a href="https://github.com/nourddine-benyahya/42-Common-Core-Projects/tree/main">
-	  <img src="https://progress-bar.dev/9/?scale=15&title=Projects&width=600&color=babaca&suffix=/15" alt="Progress Bar"> 
-&nbsp;&nbsp;&nbsp;
   	  42 project
    </a> 
 </div>
